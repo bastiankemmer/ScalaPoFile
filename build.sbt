@@ -6,7 +6,8 @@ scalaVersion := "2.11.4"
 
 libraryDependencies ++= Seq(
   "io.spray" % "spray-routing" % "1.2.0",
-  "io.spray" % "spray-can" % "1.2.0"
+  "io.spray" % "spray-can" % "1.2.0",
+  "org.scala-lang.modules" %% "scala-parser-combinators" % "1.0.2"
 )
 
 autoCompilerPlugins := true
