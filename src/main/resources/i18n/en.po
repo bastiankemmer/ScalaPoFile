@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your Name <email@example.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../../../src/main/scala/Boot.scala:6
+msgid "HelloWorld!"
+msgstr "Hello World Example Translator PO"
+
+#: ../../../../src/main/scala/Boot.scala:8
+msgid "Mein Gott!"
+msgstr "Oh my God!!"
